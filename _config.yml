@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               just numbers and stuff
+tagline:             i'll think of something
+url:                 http://aawil.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              aaron wilson
+  url:               
+  email:             aaronw@gmail.com 
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/aawil
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
