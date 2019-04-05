@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               just numbers and stuff
-tagline:             i'll think of something
+title:               true git
+tagline:             like the movie, I guess??
 url:                 http://aawil.github.io
 paginate:            2
 baseurl:             ""
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              aaron wilson
-  url:               
+  url:               https://github.com/aawil
   email:             aaronw@gmail.com 
 
 # Custom vars
@@ -35,4 +35,4 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/index.html'
+  # Feed: '/index.html'
