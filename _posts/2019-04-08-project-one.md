@@ -80,6 +80,10 @@ What we had, which was better than nothing, was the tourist-adjusted traffic for
 
 (Additional charts were created for weekday mornings and weekend evenings.)
 
+We also threw in a cute map of these ten stations, because everyone loves maps:
+
+![map with little hearts]({{ site.url }}/images/nyc_map.png)
+
 ## the moral of the story
 
 As underwhelming as our final product seems, we learned some useful lessons:
