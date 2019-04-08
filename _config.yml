@@ -5,7 +5,7 @@ permalink:           pretty
 title:               computers are stupid
 tagline:             and terrible
 url:                 http://aawil.github.io
-paginate:            2
+paginate:            1
 baseurl:             ""
 
 # Assets
@@ -33,6 +33,6 @@ gems:
 
 # Page List
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
+  about: '/about'
+  posts: '/archive'
   # Feed: '/index.html'
